@@ -1,0 +1,4 @@
+Prognosis of bowel cancer is determined by the histology, morphology and 
+the stage of the tumor. Prognosis for young patients especially those under 
+30 is worse. Also a high CEA level indicates a worse prognosis.A Stage I cancer has a 5 year survival of >90% whereas a Stage IV (where 
+cancer has spread elsewhere) there is a 5% 5 year survival. 

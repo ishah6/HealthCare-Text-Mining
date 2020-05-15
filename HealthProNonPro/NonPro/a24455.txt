@@ -1,0 +1,1 @@
+Nope - just regular radio waves - look at its small range of effective communication to see that we are not dealing with allot of power.  Bluetooth was designed primarily to be a low power consumption, wireless solution that required very little overhead processor power with an archatecture open enough to allow consumer electronics to utilize this communication protocol. 

@@ -1,0 +1,4 @@
+It is very difficult for a doctor to answer whether cancer can be detected 
+by doing biopsy on a single node and whether malignancy show up in all the 
+nodes. There are various factor that could govern a successful lymph node 
+biopsy. 
